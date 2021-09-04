@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun getJson(lat: String?, long: String?) {
-        val api="04370a5ac239cedaea3a86644dd80914"
+        val api=""
         val queue = Volley.newRequestQueue(this)
         val url ="https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&appid=${api}"
 
