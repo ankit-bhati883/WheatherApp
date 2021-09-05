@@ -8,4 +8,4 @@ Wheather App is what the title says it is. It Will show current wheather,humidit
 
 -> Use Volley library
 
--> Fetching Data from Open Wheather Api
+-> Using Api of openweathermap.org 
